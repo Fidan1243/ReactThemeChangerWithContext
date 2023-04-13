@@ -1,0 +1,28 @@
+
+.hi{
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+}
+iframe{
+    height: 400px;
+    width: 100%;
+}
+.hello{
+    display: flex;
+    padding: 30px;
+}
+.lorem-random-light,.lorem-random-dark{
+    width: 35%;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+.lorem-random-light{
+    background-color: lightskyblue;
+}
+
+.lorem-random-dark{
+    background-color: royalblue;
+}

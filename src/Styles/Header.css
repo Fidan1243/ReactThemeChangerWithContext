@@ -1,0 +1,42 @@
+
+header{
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.a-2{
+    margin-left: 200px;
+    text-align: right;
+}
+.a-link-dark,.a-main-dark{
+    align-items: center;
+    color: white;
+    transition: background-color 0.5s;
+}
+.a-link-light,.a-main-light{
+    align-items: center;
+    color: midnightblue;
+}
+.a-link-dark:hover{
+    align-items: center;
+    background-color: royalblue;
+}
+.a-link-light:hover{
+    align-items: center;
+    background-color: lightgray;
+}
+.links-dark{
+    background-color: midnightblue;
+}
+.links-light{
+    background-color: white;
+}
+a{
+    transition: background-color 0.5s;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1.3em;
+    text-decoration: none;
+}
